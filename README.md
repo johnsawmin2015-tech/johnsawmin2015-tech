@@ -2,113 +2,130 @@
 
 # John Saw Min
 
-### Software Engineering Student · AI Systems & Full-Stack Developer
+### Software Engineering Student · Full-Stack Development · Applied AI
 
-Building reliable, user-centered software—from browser-native applications to grounded AI decision systems.
+Building dependable software products through thoughtful architecture, clear business logic, and disciplined engineering.
 
-[![Computer Science](https://img.shields.io/badge/Computer%20Science-B.C.Sc.-0A66C2?style=flat-square)](#)
-[![Software Engineering](https://img.shields.io/badge/Focus-Software%20Engineering-111827?style=flat-square)](#)
-[![AI Systems](https://img.shields.io/badge/Focus-AI%20Systems-7C3AED?style=flat-square)](#)
-[![Quality Engineering](https://img.shields.io/badge/Focus-Quality%20Engineering-059669?style=flat-square)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-johnsawmin2015--tech-181717?style=flat-square&logo=github)](https://github.com/johnsawmin2015-tech)
+[![TypeScript](https://img.shields.io/badge/Primary%20Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Focus](https://img.shields.io/badge/Focus-Full--Stack%20%26%20Applied%20AI-0F766E?style=flat-square)](#engineering-focus)
 
 </div>
 
+---
+
 ## About Me
 
-I am a Computer Science student specializing in Software Engineering at the University of Computer Studies, Mandalay. I build practical web, mobile, AI-assisted, and academic systems with an emphasis on **clear architecture, deterministic business logic, testing, maintainability, accessibility, and strong user experience**.
+I am a **Bachelor of Computer Science student specializing in Software Engineering** at the University of Computer Studies, Mandalay, Myanmar.
 
-My recent work has moved from core JavaScript applications into more advanced frontend architecture, server-rendered TypeScript applications, AI-grounded decision systems, automated testing, and production-oriented deployment workflows.
+My focus is designing and engineering reliable, maintainable software products. I work primarily with **TypeScript, JavaScript, React, and modern web technologies**, while developing deeper capabilities in backend engineering, database design, system architecture, and applied artificial intelligence.
 
-### Current engineering focus
+I enjoy turning complex requirements into practical software: understanding the problem, defining clear system boundaries, selecting appropriate technologies, implementing business logic, and verifying that the result behaves as intended. My projects explore areas including financial technology, academic management, e-commerce, and AI-assisted decision support.
 
-- Designing AI-assisted products where models are **grounded by deterministic logic and validated evidence**
-- Building scalable, maintainable applications with **TypeScript, React, Next.js, and modern web architecture**
-- Strengthening **software quality engineering**, automated testing, API validation, and defensive failure handling
-- Exploring enterprise architecture, distributed systems, multi-tenant platforms, and applied AI
-- Continuously improving system design, product thinking, and engineering discipline
+I am particularly interested in building products that address real operational needs in Myanmar and can be engineered to serve broader markets over time.
 
-## Latest Projects
+## Engineering Focus
 
-| Project | What I Built | Stack / Engineering Focus |
+- **Full-stack engineering:** Building cohesive applications across frontend interfaces, backend services, APIs, and data layers.
+- **Backend and data architecture:** Learning to design clear domain boundaries, relational schemas, authorization rules, and reliable data workflows.
+- **Applied AI:** Integrating language models into applications with structured outputs, validated evidence, explicit failure handling, and deterministic logic where correctness matters.
+- **Software quality:** Applying automated tests, input validation, defensive error handling, code review, and repeatable build checks.
+- **Product engineering:** Translating user and business requirements into usable features, measurable outcomes, and maintainable implementations.
+
+## Selected Projects
+
+| Project | Overview | Technologies / Focus |
 |---|---|---|
-| **[ThriveAI](https://github.com/johnsawmin2015-tech/ThriveAI-UAB)** | Burmese-first AI financial decision copilot for Myanmar SMEs. Combines deterministic finance with evidence-locked AI interpretation, bilingual ENG/MM UX, scenario analysis, receivables prioritization, and graceful deterministic fallback. **[Live Demo](https://thrive-ai-uab.vercel.app/)** | Next.js 16, React 19, TypeScript, Tailwind CSS, Zod, OpenAI/Gemini integration, Vitest, Playwright, Vercel |
-| **[John Saw Min Portfolio](https://github.com/johnsawmin2015-tech/john-saw-min-portfolio)** | Server-rendered engineering portfolio with typed case-study content, project filtering, validated public configuration, CI quality gates, metadata, sitemap support, and Cloudflare deployment architecture. | React, TypeScript, TanStack Start, Tailwind CSS, Nitro, Cloudflare Workers, GitHub Actions |
-| **[Morrow E-Commerce](https://github.com/johnsawmin2015-tech/E-Commerce)** | Responsive browser-native commerce storefront with product discovery, search, filtering, variants, wishlist/cart persistence, simulated checkout, accessibility states, and defensive client-side storage. | HTML5, CSS3, Vanilla JavaScript ES6 modules, Browser APIs, Node test runner |
-| **[FinanceFlow](https://github.com/johnsawmin2015-tech/Finance-Flow)** | Personal finance application for income/expense tracking, financial calculations, persistent transactions, responsive dashboards, and interactive financial visualization. | HTML5, CSS3, JavaScript ES6+, Chart.js, LocalStorage |
+| **[ThriveAI](https://github.com/johnsawmin2015-tech/ThriveAI-UAB)** | Burmese-first financial decision-support prototype for Myanmar SMEs. Combines deterministic financial calculations with optional, evidence-constrained AI interpretation and a clearly labeled fallback path. | Next.js, React, TypeScript, Zod, OpenAI / Gemini, Vitest, Playwright |
+| **[Northstar University Management System](https://github.com/johnsawmin2015-tech/student-registration-system)** | University registration system project focused on server-side authorization, transactional registration rules, waitlists, audit records, and secure session handling. | Next.js, TypeScript, PostgreSQL, Drizzle ORM, Zod, Argon2id, Vitest, Playwright |
+| **[FinanceFlow](https://github.com/johnsawmin2015-tech/Finance-Flow)** | Browser-based personal finance application with a deterministic ledger, account-aware transfers, budgeting, analytics, forecasts, and portable reports. | HTML, CSS, JavaScript ES modules, financial domain logic, Node test runner |
+| **[Personal Portfolio](https://github.com/johnsawmin2015-tech/john-saw-min-portfolio)** | Server-rendered engineering portfolio with typed case-study content, validated public configuration, metadata, and automated quality checks. | React, TypeScript, TanStack Start, Tailwind CSS, Nitro, Cloudflare Workers |
+| **[Morrow E-Commerce](https://github.com/johnsawmin2015-tech/E-Commerce)** | Browser-native commerce storefront prototype with product discovery, filters, variants, cart and wishlist workflows, and defensive local persistence. | HTML, CSS, Vanilla JavaScript, ES modules, Browser APIs |
 
-## Additional Engineering Work
+### Additional Work
 
-| Project | Engineering Focus |
-|---|---|
-| **Student Registration System** | Authentication, role-based access control, API/data workflows, payment-flow planning, mobile/web synchronization, and positive/negative testing |
-| **UniSched** | Constraint-aware university timetable generation, conflict detection, RBAC, scheduling rules, and data-consistency validation |
-| **CareerBridge** | Requirements analysis and system design for internship and career management, including role workflows and scalable feature planning |
-| **NetScope** | Real-time network traffic analysis with Wireshark across ARP, ICMPv6, mDNS, TCP, TLS, and HTTPS |
+- **[AcademyOS](https://github.com/johnsawmin2015-tech/AcademyOS)** — In-progress bilingual academy management and learning platform. The repository documents ongoing implementation and outstanding testing, deployment, security, and operational acceptance work; it is not presented as production-ready.
+- **[UniSched](https://github.com/johnsawmin2015-tech/UniShed)** — Academic timetable planning prototype with deterministic schedule-conflict checks and role-aware frontend views.
+- **[SENTINEL](https://github.com/johnsawmin2015-tech/create-joyful-structures)** — Security-operations dashboard prototype combining selected Supabase-backed workflows with simulated monitoring and analytics data.
+
+> **Project maturity matters:** These repositories represent a mix of learning projects, prototypes, and ongoing implementations. Their READMEs describe the implemented scope and known limitations. They should not be interpreted as claims that every project is deployed, production-ready, or handling real customer data.
 
 ## Technical Toolkit
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
-![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus&logoColor=00599C)
-![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Frontend & Application Engineering
+### Frontend and Application Development
 
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![React Native](https://img.shields.io/badge/React%20Native-111827?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css&logoColor=663399)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Data, AI & APIs
+### Data, APIs, and AI
 
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1)
-![REST API](https://img.shields.io/badge/REST%20APIs-111827?style=flat-square&logo=fastapi&logoColor=009688)
-![Zod](https://img.shields.io/badge/Zod-111827?style=flat-square&logo=zod&logoColor=3E67B1)
-![AI](https://img.shields.io/badge/AI-Grounded%20Systems-111827?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
-### Quality, Testing & Delivery
+### Testing and Delivery
 
-![Vitest](https://img.shields.io/badge/Vitest-111827?style=flat-square&logo=vitest&logoColor=6E9F18)
-![Playwright](https://img.shields.io/badge/Playwright-111827?style=flat-square&logo=playwright&logoColor=2EAD33)
-![Postman](https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=FF6C37)
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=FFFFFF)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-## How I Approach Engineering
+> The toolkit reflects technologies used across my projects and current learning. It is not a claim of equal proficiency in every tool.
+
+## Engineering Principles
 
 ```text
-Understand the problem before choosing the technology.
-Keep business-critical calculations deterministic and testable.
-Use AI where it adds intelligence—not where deterministic code is safer.
-Design failure states as carefully as success states.
-Treat accessibility, validation, and testing as engineering requirements.
-Prefer clear architecture over unnecessary complexity.
-Ship, verify, learn, and improve the next iteration.
+Understand the problem before selecting the technology.
+Keep business-critical rules explicit, deterministic, and testable.
+Enforce security and authorization at trusted server boundaries.
+Treat validation and failure handling as first-class requirements.
+Use AI where it adds value, with evidence and constraints around its output.
+Prefer maintainable architecture over unnecessary complexity.
+Document limitations and verify claims with tests and evidence.
+Build, measure, learn, and improve continuously.
 ```
+
+## Currently Developing
+
+- Stronger backend engineering and API design skills.
+- System design, relational data modeling, and transaction correctness.
+- Authentication, authorization, and application security.
+- Automated testing, CI/CD, observability, and production operations.
+- Applied AI engineering, including evaluation, retrieval, and reliable tool use.
+- Product discovery and the delivery of commercially viable SaaS applications.
 
 ## Beyond Code
 
-Football sharpens how I think about systems, movement, and decision-making. Running develops consistency and endurance, while chess strengthens calculation and strategic thinking. I bring the same mindset to engineering: **study the system, test the assumptions, execute with discipline, and improve every iteration**.
+I enjoy football, running, and continuous learning. These interests reinforce the habits I value in engineering: preparation, consistency, strategic thinking, and steady improvement.
 
 ## Connect
 
-- **Email:** [johnsawmin2015@gmail.com](mailto:johnsawmin2015@gmail.com)
 - **GitHub:** [@johnsawmin2015-tech](https://github.com/johnsawmin2015-tech)
-- **Portfolio Repository:** [john-saw-min-portfolio](https://github.com/johnsawmin2015-tech/john-saw-min-portfolio)
+- **Email:** [johnsawmin2015@gmail.com](mailto:johnsawmin2015@gmail.com)
+- **Portfolio repository:** [john-saw-min-portfolio](https://github.com/johnsawmin2015-tech/john-saw-min-portfolio)
+
+---
 
 <div align="center">
 
-### Build with discipline. Engineer for trust. Keep improving.
+**Understand deeply. Engineer thoughtfully. Deliver reliably.**
 
 </div>
